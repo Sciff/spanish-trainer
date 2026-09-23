@@ -1,0 +1,225 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #f4f6f8;
+  color: #1a1a1a;
+  line-height: 1.5;
+}
+
+.app {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+.header {
+  margin-bottom: 1.25rem;
+}
+
+.header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.5rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: #555;
+}
+
+.score {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.tense-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.tense-btn {
+  border: 1px solid #b7c4a3;
+  background: #f4f7ef;
+  border-radius: 6px;
+  padding: 0.35rem 0.7rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.tense-btn:hover {
+  border-color: #6a8a3d;
+}
+
+.tense-btn.active {
+  background: #6a8a3d;
+  border-color: #6a8a3d;
+  color: #fff;
+}
+
+.verb-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.verb-btn {
+  border: 1px solid #c5cdd6;
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.35rem 0.65rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.verb-btn:hover {
+  border-color: #3b6ea5;
+}
+
+.verb-btn.active {
+  background: #3b6ea5;
+  border-color: #3b6ea5;
+  color: #fff;
+}
+
+.verb-btn .meta {
+  display: block;
+  font-size: 0.7rem;
+  opacity: 0.75;
+}
+
+.panel {
+  background: #fff;
+  border: 1px solid #e1e6eb;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.panel-title {
+  margin: 0 0 1rem;
+  font-size: 1.15rem;
+}
+
+.panel-title .badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.45rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 4px;
+  background: #eef2f6;
+  color: #445;
+  vertical-align: middle;
+}
+
+.sentence-card.single {
+  padding: 0.5rem 0 0;
+}
+
+.sentence-text {
+  font-size: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0;
+  min-height: 2.5rem;
+}
+
+.primary-btn {
+  margin-top: 1rem;
+  border: none;
+  background: #3b6ea5;
+  color: #fff;
+  border-radius: 6px;
+  padding: 0.55rem 1rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  background: #2f5a88;
+}
+
+.panel-title .badge.progress {
+  background: #dde8f4;
+  color: #2f5a88;
+}
+
+.panel-title .badge.translation {
+  background: #f0e9dc;
+  color: #5c4a2a;
+}
+
+.sentence-text select {
+  margin: 0 0.25rem;
+  padding: 0.25rem 0.4rem;
+  font-size: 1rem;
+  border: 2px solid #9aa8b8;
+  border-radius: 6px;
+  background: #fff;
+  min-width: 7rem;
+}
+
+.sentence-text select.correct {
+  border-color: #2e7d4f;
+  background: #e8f6ee;
+}
+
+.sentence-text select.wrong {
+  border-color: #c0392b;
+  background: #fdecea;
+}
+
+.hint {
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.sentence-translation {
+  margin: 0.6rem 0 0;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.95rem;
+  color: #333;
+  background: #f3f6f9;
+  border-radius: 6px;
+  line-height: 1.45;
+}
+
+.sentence-translation .full-es {
+  display: inline-block;
+  margin-top: 0.25rem;
+  color: #555;
+  font-style: italic;
+}
+
+.feedback {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  font-weight: 600;
+  min-height: 1.2em;
+}
+
+.feedback.ok {
+  color: #2e7d4f;
+}
+
+.feedback.bad {
+  color: #c0392b;
+}
+
+.loading,
+.error {
+  color: #555;
+}
+
+.error {
+  color: #c0392b;
+}
