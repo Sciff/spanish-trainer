@@ -13,6 +13,7 @@
   let correctCount = 0;
   let answeredCount = 0;
   let advancing = false;
+  let verbsExpanded = false;
 
   const TENSE_LABELS = {
     presente: "настоящее",
@@ -111,6 +112,31 @@
 
   function renderNav() {
     navEl.innerHTML = "";
+    navEl.classList.toggle("collapsed", !verbsExpanded);
+
+    const toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "verb-toggle";
+    toggle.setAttribute("aria-expanded", verbsExpanded ? "true" : "false");
+    const count = uniqueInfinitives().length;
+    const label = filterInfinitive || "все глаголы";
+    toggle.innerHTML =
+      '<span class="verb-toggle-label">' +
+      (verbsExpanded ? "Скрыть глаголы" : "Глаголы") +
+      '</span><span class="verb-toggle-meta">' +
+      label +
+      " · " +
+      count +
+      "</span>";
+    toggle.addEventListener("click", () => {
+      verbsExpanded = !verbsExpanded;
+      renderNav();
+    });
+    navEl.appendChild(toggle);
+
+    const list = document.createElement("div");
+    list.className = "verb-list";
+    list.hidden = !verbsExpanded;
 
     const allBtn = document.createElement("button");
     allBtn.type = "button";
@@ -120,7 +146,7 @@
       if (advancing) return;
       startQueue({ infinitive: null });
     });
-    navEl.appendChild(allBtn);
+    list.appendChild(allBtn);
 
     const current = currentItem();
     uniqueInfinitives().forEach((verb) => {
@@ -142,8 +168,10 @@
         if (advancing) return;
         startQueue({ infinitive: verb.infinitive });
       });
-      navEl.appendChild(btn);
+      list.appendChild(btn);
     });
+
+    navEl.appendChild(list);
   }
 
   function goNext() {
@@ -244,7 +272,12 @@
 
     const translationEl = document.createElement("p");
     translationEl.className = "sentence-translation";
-    translationEl.hidden = true;
+    const ru = sentence.translation || sentence.hint;
+    if (ru) {
+      translationEl.innerHTML = "<strong>Перевод:</strong> " + ru;
+    } else {
+      translationEl.hidden = true;
+    }
 
     function fullSentence(filled) {
       return (sentence.parts || [])
@@ -273,9 +306,7 @@
         select.value = sentence.answer;
       }
 
-      const ru = sentence.translation || sentence.hint;
       if (ru) {
-        translationEl.hidden = false;
         translationEl.innerHTML =
           "<strong>Перевод:</strong> " +
           ru +
@@ -297,8 +328,8 @@
     });
 
     card.appendChild(text);
-    card.appendChild(feedback);
     card.appendChild(translationEl);
+    card.appendChild(feedback);
     panel.appendChild(card);
 
     mainEl.innerHTML = "";

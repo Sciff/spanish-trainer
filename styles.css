@@ -65,9 +65,41 @@ body {
 
 .verb-nav {
   display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.verb-toggle {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  border: 1px solid #c5cdd6;
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.4rem 0.75rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.verb-toggle:hover {
+  border-color: #3b6ea5;
+}
+
+.verb-toggle-meta {
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.verb-list {
+  display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
-  margin-bottom: 1.5rem;
+}
+
+.verb-list[hidden] {
+  display: none;
 }
 
 .verb-btn {
