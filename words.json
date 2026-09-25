@@ -1,0 +1,1757 @@
+{
+  "words": [
+    {
+      "es": "el agua",
+      "ru": "вода",
+      "category": "comida"
+    },
+    {
+      "es": "el aire",
+      "ru": "воздух",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el amor",
+      "ru": "любовь",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el animal",
+      "ru": "животное",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el árbol",
+      "ru": "дерево",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el arroz",
+      "ru": "рис",
+      "category": "comida"
+    },
+    {
+      "es": "el azúcar",
+      "ru": "сахар",
+      "category": "comida"
+    },
+    {
+      "es": "el auto",
+      "ru": "машина",
+      "category": "viaje"
+    },
+    {
+      "es": "el avión",
+      "ru": "самолёт",
+      "category": "viaje"
+    },
+    {
+      "es": "el baño",
+      "ru": "ванная",
+      "category": "casa"
+    },
+    {
+      "es": "el barco",
+      "ru": "корабль",
+      "category": "viaje"
+    },
+    {
+      "es": "el bebé",
+      "ru": "малыш",
+      "category": "gente"
+    },
+    {
+      "es": "el bolígrafo",
+      "ru": "ручка",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el bosque",
+      "ru": "лес",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el brazo",
+      "ru": "рука (от плеча)",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el café",
+      "ru": "кофе",
+      "category": "comida"
+    },
+    {
+      "es": "el calor",
+      "ru": "жара",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el camino",
+      "ru": "дорога",
+      "category": "viaje"
+    },
+    {
+      "es": "el campo",
+      "ru": "поле / деревня",
+      "category": "viaje"
+    },
+    {
+      "es": "el carro",
+      "ru": "автомобиль",
+      "category": "viaje"
+    },
+    {
+      "es": "el cielo",
+      "ru": "небо",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el cine",
+      "ru": "кино",
+      "category": "ciudad"
+    },
+    {
+      "es": "el clima",
+      "ru": "климат",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el coche",
+      "ru": "машина",
+      "category": "viaje"
+    },
+    {
+      "es": "el color",
+      "ru": "цвет",
+      "category": "colores"
+    },
+    {
+      "es": "el corazón",
+      "ru": "сердце",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el cuerpo",
+      "ru": "тело",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el dedo",
+      "ru": "палец",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el día",
+      "ru": "день",
+      "category": "tiempo"
+    },
+    {
+      "es": "el dinero",
+      "ru": "деньги",
+      "category": "general"
+    },
+    {
+      "es": "el doctor",
+      "ru": "врач",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor",
+      "ru": "боль (голова, горло, спина, живот, грудь)",
+      "category": "salud"
+    },
+    {
+      "es": "el edificio",
+      "ru": "здание",
+      "category": "ciudad"
+    },
+    {
+      "es": "el ejemplo",
+      "ru": "пример",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el ejercicio",
+      "ru": "упражнение",
+      "category": "salud"
+    },
+    {
+      "es": "el empleo",
+      "ru": "работа",
+      "category": "ciudad"
+    },
+    {
+      "es": "el enfermo",
+      "ru": "больной",
+      "category": "salud"
+    },
+    {
+      "es": "el equipo",
+      "ru": "команда",
+      "category": "general"
+    },
+    {
+      "es": "el error",
+      "ru": "ошибка",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el español",
+      "ru": "испанский",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el estómago",
+      "ru": "желудок",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el estudiante",
+      "ru": "студент",
+      "category": "gente"
+    },
+    {
+      "es": "el examen",
+      "ru": "экзамен",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el éxito",
+      "ru": "успех",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el frío",
+      "ru": "холод",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el fuego",
+      "ru": "огонь",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el futuro",
+      "ru": "будущее",
+      "category": "tiempo"
+    },
+    {
+      "es": "el gato",
+      "ru": "кот",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el gobierno",
+      "ru": "правительство",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el grupo",
+      "ru": "группа",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el hecho",
+      "ru": "факт",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el hermano",
+      "ru": "брат",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el hielo",
+      "ru": "лёд",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el hombre",
+      "ru": "мужчина",
+      "category": "gente"
+    },
+    {
+      "es": "el hospital",
+      "ru": "больница",
+      "category": "salud"
+    },
+    {
+      "es": "el hotel",
+      "ru": "отель",
+      "category": "ciudad"
+    },
+    {
+      "es": "el huevo",
+      "ru": "яйцо",
+      "category": "comida"
+    },
+    {
+      "es": "el idioma",
+      "ru": "язык",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el invierno",
+      "ru": "зима",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el jardín",
+      "ru": "сад",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el juego",
+      "ru": "игра",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el jugo",
+      "ru": "сок",
+      "category": "comida"
+    },
+    {
+      "es": "el lago",
+      "ru": "озеро",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el lapiz",
+      "ru": "карандаш",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el libro",
+      "ru": "книга",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el lugar",
+      "ru": "место",
+      "category": "viaje"
+    },
+    {
+      "es": "el maestro",
+      "ru": "учитель",
+      "category": "gente"
+    },
+    {
+      "es": "el mapa",
+      "ru": "карта",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el mar",
+      "ru": "море",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el marido",
+      "ru": "муж",
+      "category": "gente"
+    },
+    {
+      "es": "el médico",
+      "ru": "врач",
+      "category": "salud"
+    },
+    {
+      "es": "el mercado",
+      "ru": "рынок",
+      "category": "ciudad"
+    },
+    {
+      "es": "el miedo",
+      "ru": "страх",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el minuto",
+      "ru": "минута",
+      "category": "tiempo"
+    },
+    {
+      "es": "el mundo",
+      "ru": "мир",
+      "category": "general"
+    },
+    {
+      "es": "el museo",
+      "ru": "музей",
+      "category": "ciudad"
+    },
+    {
+      "es": "el niño",
+      "ru": "мальчик / ребёнок",
+      "category": "gente"
+    },
+    {
+      "es": "el nombre",
+      "ru": "имя",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el número",
+      "ru": "число",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el ojo",
+      "ru": "глаз",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el otoño",
+      "ru": "осень",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el país",
+      "ru": "страна",
+      "category": "viaje"
+    },
+    {
+      "es": "el pan",
+      "ru": "хлеб",
+      "category": "comida"
+    },
+    {
+      "es": "el papel",
+      "ru": "бумага",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el parque",
+      "ru": "парк",
+      "category": "ciudad"
+    },
+    {
+      "es": "el pasado",
+      "ru": "прошлое",
+      "category": "tiempo"
+    },
+    {
+      "es": "el perro",
+      "ru": "собака",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el pie",
+      "ru": "нога / стопа",
+      "category": "cuerpo"
+    },
+    {
+      "es": "el piso",
+      "ru": "этаж / квартира",
+      "category": "casa"
+    },
+    {
+      "es": "el plato",
+      "ru": "тарелка",
+      "category": "comida"
+    },
+    {
+      "es": "el pueblo",
+      "ru": "народ / городок",
+      "category": "ciudad"
+    },
+    {
+      "es": "el puente",
+      "ru": "мост",
+      "category": "ciudad"
+    },
+    {
+      "es": "el puerto",
+      "ru": "порт",
+      "category": "ciudad"
+    },
+    {
+      "es": "el queso",
+      "ru": "сыр",
+      "category": "comida"
+    },
+    {
+      "es": "el reloj",
+      "ru": "часы",
+      "category": "casa"
+    },
+    {
+      "es": "el río",
+      "ru": "река",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el ruido",
+      "ru": "шум",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el salón",
+      "ru": "гостиная",
+      "category": "comida"
+    },
+    {
+      "es": "el sábado",
+      "ru": "суббота",
+      "category": "tiempo"
+    },
+    {
+      "es": "el secreto",
+      "ru": "секрет",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el suelo",
+      "ru": "пол / земля",
+      "category": "casa"
+    },
+    {
+      "es": "el sol",
+      "ru": "солнце",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el sueño",
+      "ru": "сон / мечта",
+      "category": "tecnologia"
+    },
+    {
+      "es": "el tiempo",
+      "ru": "время / погода",
+      "category": "tiempo"
+    },
+    {
+      "es": "el trabajo",
+      "ru": "работа",
+      "category": "ciudad"
+    },
+    {
+      "es": "el tren",
+      "ru": "поезд",
+      "category": "viaje"
+    },
+    {
+      "es": "el verano",
+      "ru": "лето",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el viaje",
+      "ru": "путешествие",
+      "category": "viaje"
+    },
+    {
+      "es": "el viento",
+      "ru": "ветер",
+      "category": "naturaleza"
+    },
+    {
+      "es": "el vino",
+      "ru": "вино",
+      "category": "comida"
+    },
+    {
+      "es": "el vivo",
+      "ru": "живой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "el zapato",
+      "ru": "туфля",
+      "category": "casa"
+    },
+    {
+      "es": "la agua mineral",
+      "ru": "минеральная вода",
+      "category": "comida"
+    },
+    {
+      "es": "la amiga",
+      "ru": "подруга",
+      "category": "gente"
+    },
+    {
+      "es": "la comida",
+      "ru": "еда",
+      "category": "comida"
+    },
+    {
+      "es": "la casa",
+      "ru": "дом",
+      "category": "casa"
+    },
+    {
+      "es": "la calle",
+      "ru": "улица",
+      "category": "ciudad"
+    },
+    {
+      "es": "la cama",
+      "ru": "кровать",
+      "category": "casa"
+    },
+    {
+      "es": "la cabeza",
+      "ru": "голова",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la canción",
+      "ru": "песня",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la carne",
+      "ru": "мясо",
+      "category": "comida"
+    },
+    {
+      "es": "la carta",
+      "ru": "письмо",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la ciudad",
+      "ru": "город",
+      "category": "ciudad"
+    },
+    {
+      "es": "la clase",
+      "ru": "урок / класс",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la cocina",
+      "ru": "кухня",
+      "category": "casa"
+    },
+    {
+      "es": "la cosa",
+      "ru": "вещь",
+      "category": "general"
+    },
+    {
+      "es": "la cuenta",
+      "ru": "счёт",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la cultura",
+      "ru": "культура",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la decisión",
+      "ru": "решение",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la dieta",
+      "ru": "диета",
+      "category": "salud"
+    },
+    {
+      "es": "la dificultad",
+      "ru": "трудность",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la dirección",
+      "ru": "адрес / направление",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la enfermedad",
+      "ru": "болезнь",
+      "category": "salud"
+    },
+    {
+      "es": "la escuela",
+      "ru": "школа",
+      "category": "ciudad"
+    },
+    {
+      "es": "la estación",
+      "ru": "вокзал / сезон",
+      "category": "ciudad"
+    },
+    {
+      "es": "la estrella",
+      "ru": "звезда",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la familia",
+      "ru": "семья",
+      "category": "gente"
+    },
+    {
+      "es": "la fecha",
+      "ru": "дата",
+      "category": "tiempo"
+    },
+    {
+      "es": "la fiesta",
+      "ru": "праздник",
+      "category": "gente"
+    },
+    {
+      "es": "la flor",
+      "ru": "цветок",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la forma",
+      "ru": "форма",
+      "category": "general"
+    },
+    {
+      "es": "la foto",
+      "ru": "фото",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la fruta",
+      "ru": "фрукт",
+      "category": "comida"
+    },
+    {
+      "es": "la gente",
+      "ru": "люди",
+      "category": "gente"
+    },
+    {
+      "es": "la guerra",
+      "ru": "война",
+      "category": "general"
+    },
+    {
+      "es": "la habitación",
+      "ru": "комната",
+      "category": "casa"
+    },
+    {
+      "es": "la hermana",
+      "ru": "сестра",
+      "category": "gente"
+    },
+    {
+      "es": "la hija",
+      "ru": "дочь",
+      "category": "gente"
+    },
+    {
+      "es": "la historia",
+      "ru": "история",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la hora",
+      "ru": "час",
+      "category": "tiempo"
+    },
+    {
+      "es": "la idea",
+      "ru": "идея",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la iglesia",
+      "ru": "церковь",
+      "category": "ciudad"
+    },
+    {
+      "es": "la información",
+      "ru": "информация",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la isla",
+      "ru": "остров",
+      "category": "viaje"
+    },
+    {
+      "es": "la leche",
+      "ru": "молоко",
+      "category": "comida"
+    },
+    {
+      "es": "la lengua",
+      "ru": "язык",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la ley",
+      "ru": "закон",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la lluvia",
+      "ru": "дождь",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la luz",
+      "ru": "свет",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la madre",
+      "ru": "мама",
+      "category": "gente"
+    },
+    {
+      "es": "la mañana",
+      "ru": "утро",
+      "category": "tiempo"
+    },
+    {
+      "es": "la mano",
+      "ru": "рука (кисть)",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la manzana",
+      "ru": "яблоко",
+      "category": "comida"
+    },
+    {
+      "es": "la medicina",
+      "ru": "медицина",
+      "category": "salud"
+    },
+    {
+      "es": "la mesa",
+      "ru": "стол",
+      "category": "casa"
+    },
+    {
+      "es": "la montaña",
+      "ru": "гора",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la muerte",
+      "ru": "смерть",
+      "category": "general"
+    },
+    {
+      "es": "la mujer",
+      "ru": "женщина",
+      "category": "gente"
+    },
+    {
+      "es": "la música",
+      "ru": "музыка",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la naturaleza",
+      "ru": "природа",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la noche",
+      "ru": "ночь",
+      "category": "tiempo"
+    },
+    {
+      "es": "la noticia",
+      "ru": "новость",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la nube",
+      "ru": "облако",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la oficina",
+      "ru": "офис",
+      "category": "ciudad"
+    },
+    {
+      "es": "la oportunidad",
+      "ru": "возможность",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la palabra",
+      "ru": "слово",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la pared",
+      "ru": "стена",
+      "category": "casa"
+    },
+    {
+      "es": "la parte",
+      "ru": "часть",
+      "category": "general"
+    },
+    {
+      "es": "la pasta",
+      "ru": "паста",
+      "category": "comida"
+    },
+    {
+      "es": "la película",
+      "ru": "фильм",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la persona",
+      "ru": "человек",
+      "category": "gente"
+    },
+    {
+      "es": "la piel",
+      "ru": "кожа",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la piedra",
+      "ru": "камень",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la pierna",
+      "ru": "нога",
+      "category": "cuerpo"
+    },
+    {
+      "es": "la planta",
+      "ru": "растение",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la playa",
+      "ru": "пляж",
+      "category": "ciudad"
+    },
+    {
+      "es": "la plaza",
+      "ru": "площадь",
+      "category": "ciudad"
+    },
+    {
+      "es": "la pregunta",
+      "ru": "вопрос",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la primavera",
+      "ru": "весна",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la puerta",
+      "ru": "дверь",
+      "category": "casa"
+    },
+    {
+      "es": "la radio",
+      "ru": "радио",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la razón",
+      "ru": "причина / правота",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la respuesta",
+      "ru": "ответ",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la ropa",
+      "ru": "одежда",
+      "category": "casa"
+    },
+    {
+      "es": "la salud",
+      "ru": "здоровье",
+      "category": "salud"
+    },
+    {
+      "es": "la sangre",
+      "ru": "кровь",
+      "category": "salud"
+    },
+    {
+      "es": "la semana",
+      "ru": "неделя",
+      "category": "tiempo"
+    },
+    {
+      "es": "la silla",
+      "ru": "стул",
+      "category": "casa"
+    },
+    {
+      "es": "la sobrina",
+      "ru": "племянница",
+      "category": "gente"
+    },
+    {
+      "es": "la sopa",
+      "ru": "суп",
+      "category": "comida"
+    },
+    {
+      "es": "la suerte",
+      "ru": "удача",
+      "category": "general"
+    },
+    {
+      "es": "la tarde",
+      "ru": "вечер / день",
+      "category": "tiempo"
+    },
+    {
+      "es": "la tarea",
+      "ru": "задание",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la tienda",
+      "ru": "магазин",
+      "category": "ciudad"
+    },
+    {
+      "es": "la tierra",
+      "ru": "земля",
+      "category": "naturaleza"
+    },
+    {
+      "es": "la tos",
+      "ru": "кашель",
+      "category": "salud"
+    },
+    {
+      "es": "la universidad",
+      "ru": "университет",
+      "category": "ciudad"
+    },
+    {
+      "es": "la ventana",
+      "ru": "окно",
+      "category": "casa"
+    },
+    {
+      "es": "la verdad",
+      "ru": "правда",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la vida",
+      "ru": "жизнь",
+      "category": "general"
+    },
+    {
+      "es": "la voz",
+      "ru": "голос",
+      "category": "tecnologia"
+    },
+    {
+      "es": "la palabra clave",
+      "ru": "ключевое слово",
+      "category": "tecnologia"
+    },
+    {
+      "es": "alto",
+      "ru": "высокий",
+      "category": "adjetivos"
+    },
+    {
+      "es": "bajo",
+      "ru": "низкий",
+      "category": "adjetivos"
+    },
+    {
+      "es": "grande",
+      "ru": "большой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "pequeño",
+      "ru": "маленький",
+      "category": "adjetivos"
+    },
+    {
+      "es": "bueno",
+      "ru": "хороший",
+      "category": "adjetivos"
+    },
+    {
+      "es": "malo",
+      "ru": "плохой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "bonito",
+      "ru": "красивый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "feo",
+      "ru": "уродливый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "nuevo",
+      "ru": "новый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "viejo",
+      "ru": "старый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "joven",
+      "ru": "молодой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "rico",
+      "ru": "богатый / вкусный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "pobre",
+      "ru": "бедный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "fácil",
+      "ru": "лёгкий",
+      "category": "adjetivos"
+    },
+    {
+      "es": "difícil",
+      "ru": "трудный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "rápido",
+      "ru": "быстрый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "lento",
+      "ru": "медленный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "feliz",
+      "ru": "счастливый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "triste",
+      "ru": "грустный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "cansado",
+      "ru": "усталый",
+      "category": "salud"
+    },
+    {
+      "es": "enfermo",
+      "ru": "больной",
+      "category": "salud"
+    },
+    {
+      "es": "sano",
+      "ru": "здоровый",
+      "category": "salud"
+    },
+    {
+      "es": "limpio",
+      "ru": "чистый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "sucio",
+      "ru": "грязный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "caliente",
+      "ru": "горячий",
+      "category": "adjetivos"
+    },
+    {
+      "es": "frío",
+      "ru": "холодный",
+      "category": "naturaleza"
+    },
+    {
+      "es": "lleno",
+      "ru": "полный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "vacío",
+      "ru": "пустой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "abierto",
+      "ru": "открытый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "cerrado",
+      "ru": "закрытый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "importante",
+      "ru": "важный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "interesante",
+      "ru": "интересный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "necesario",
+      "ru": "необходимый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "posible",
+      "ru": "возможный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "imposible",
+      "ru": "невозможный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "seguro",
+      "ru": "уверенный / безопасный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "peligroso",
+      "ru": "опасный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "barato",
+      "ru": "дешёвый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "caro",
+      "ru": "дорогой",
+      "category": "adjetivos"
+    },
+    {
+      "es": "libre",
+      "ru": "свободный",
+      "category": "adjetivos"
+    },
+    {
+      "es": "ocupado",
+      "ru": "занятый",
+      "category": "adjetivos"
+    },
+    {
+      "es": "solo",
+      "ru": "один",
+      "category": "naturaleza"
+    },
+    {
+      "es": "juntos",
+      "ru": "вместе",
+      "category": "salud"
+    },
+    {
+      "es": "cerca",
+      "ru": "близко",
+      "category": "adjetivos"
+    },
+    {
+      "es": "lejos",
+      "ru": "далеко",
+      "category": "adjetivos"
+    },
+    {
+      "es": "aquí",
+      "ru": "здесь",
+      "category": "palabras"
+    },
+    {
+      "es": "allí",
+      "ru": "там",
+      "category": "palabras"
+    },
+    {
+      "es": "ahora",
+      "ru": "сейчас",
+      "category": "tiempo"
+    },
+    {
+      "es": "antes",
+      "ru": "раньше",
+      "category": "tiempo"
+    },
+    {
+      "es": "después",
+      "ru": "после",
+      "category": "tiempo"
+    },
+    {
+      "es": "siempre",
+      "ru": "всегда",
+      "category": "tiempo"
+    },
+    {
+      "es": "nunca",
+      "ru": "никогда",
+      "category": "tiempo"
+    },
+    {
+      "es": "también",
+      "ru": "тоже",
+      "category": "palabras"
+    },
+    {
+      "es": "tampoco",
+      "ru": "тоже не",
+      "category": "palabras"
+    },
+    {
+      "es": "mucho",
+      "ru": "много",
+      "category": "adjetivos"
+    },
+    {
+      "es": "poco",
+      "ru": "мало",
+      "category": "adjetivos"
+    },
+    {
+      "es": "más",
+      "ru": "больше",
+      "category": "adjetivos"
+    },
+    {
+      "es": "menos",
+      "ru": "меньше",
+      "category": "adjetivos"
+    },
+    {
+      "es": "muy",
+      "ru": "очень",
+      "category": "adjetivos"
+    },
+    {
+      "es": "bastante",
+      "ru": "довольно",
+      "category": "adjetivos"
+    },
+    {
+      "es": "hoy",
+      "ru": "сегодня",
+      "category": "tiempo"
+    },
+    {
+      "es": "ayer",
+      "ru": "вчера",
+      "category": "tiempo"
+    },
+    {
+      "es": "mañana",
+      "ru": "завтра",
+      "category": "tiempo"
+    },
+    {
+      "es": "temprano",
+      "ru": "рано",
+      "category": "tiempo"
+    },
+    {
+      "es": "tarde",
+      "ru": "поздно",
+      "category": "tiempo"
+    },
+    {
+      "es": "pronto",
+      "ru": "скоро",
+      "category": "tiempo"
+    },
+    {
+      "es": "ya",
+      "ru": "уже",
+      "category": "tiempo"
+    },
+    {
+      "es": "aún",
+      "ru": "ещё",
+      "category": "tiempo"
+    },
+    {
+      "es": "sí",
+      "ru": "да",
+      "category": "palabras"
+    },
+    {
+      "es": "no",
+      "ru": "нет",
+      "category": "palabras"
+    },
+    {
+      "es": "porque",
+      "ru": "потому что",
+      "category": "palabras"
+    },
+    {
+      "es": "pero",
+      "ru": "но",
+      "category": "palabras"
+    },
+    {
+      "es": "y",
+      "ru": "и",
+      "category": "palabras"
+    },
+    {
+      "es": "o",
+      "ru": "или",
+      "category": "palabras"
+    },
+    {
+      "es": "con",
+      "ru": "с",
+      "category": "palabras"
+    },
+    {
+      "es": "sin",
+      "ru": "без",
+      "category": "palabras"
+    },
+    {
+      "es": "para",
+      "ru": "для / чтобы",
+      "category": "palabras"
+    },
+    {
+      "es": "por",
+      "ru": "из-за / через",
+      "category": "palabras"
+    },
+    {
+      "es": "de",
+      "ru": "из / о",
+      "category": "palabras"
+    },
+    {
+      "es": "en",
+      "ru": "в",
+      "category": "palabras"
+    },
+    {
+      "es": "sobre",
+      "ru": "на / о",
+      "category": "palabras"
+    },
+    {
+      "es": "entre",
+      "ru": "между",
+      "category": "palabras"
+    },
+    {
+      "es": "desde",
+      "ru": "с / от",
+      "category": "palabras"
+    },
+    {
+      "es": "hasta",
+      "ru": "до",
+      "category": "palabras"
+    },
+    {
+      "es": "rojo",
+      "ru": "красный",
+      "category": "colores"
+    },
+    {
+      "es": "azul",
+      "ru": "синий",
+      "category": "colores"
+    },
+    {
+      "es": "verde",
+      "ru": "зелёный",
+      "category": "colores"
+    },
+    {
+      "es": "amarillo",
+      "ru": "жёлтый",
+      "category": "colores"
+    },
+    {
+      "es": "el malestar",
+      "ru": "недомогание",
+      "category": "salud"
+    },
+    {
+      "es": "la fiebre",
+      "ru": "температура, жар",
+      "category": "salud"
+    },
+    {
+      "es": "la fiebre alta",
+      "ru": "высокая температура",
+      "category": "salud"
+    },
+    {
+      "es": "la tos seca",
+      "ru": "сухой кашель",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor de cabeza",
+      "ru": "головная боль",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor de garganta",
+      "ru": "боль в горле",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor de espalda",
+      "ru": "боль в спине",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor de estómago",
+      "ru": "боль в животе",
+      "category": "salud"
+    },
+    {
+      "es": "el dolor en el pecho",
+      "ru": "боль в груди",
+      "category": "salud"
+    },
+    {
+      "es": "el mareo",
+      "ru": "головокружение",
+      "category": "salud"
+    },
+    {
+      "es": "las náuseas",
+      "ru": "тошнота",
+      "category": "salud"
+    },
+    {
+      "es": "el vómito",
+      "ru": "рвота",
+      "category": "salud"
+    },
+    {
+      "es": "la diarrea",
+      "ru": "диарея",
+      "category": "salud"
+    },
+    {
+      "es": "el estreñimiento",
+      "ru": "запор",
+      "category": "salud"
+    },
+    {
+      "es": "la acidez",
+      "ru": "изжога",
+      "category": "salud"
+    },
+    {
+      "es": "la hinchazón",
+      "ru": "отёк / вздутие",
+      "category": "salud"
+    },
+    {
+      "es": "la alergia",
+      "ru": "аллергия",
+      "category": "salud"
+    },
+    {
+      "es": "el cansancio",
+      "ru": "усталость",
+      "category": "salud"
+    },
+    {
+      "es": "el resfriado",
+      "ru": "простуда",
+      "category": "salud"
+    },
+    {
+      "es": "la gripe",
+      "ru": "грипп",
+      "category": "salud"
+    },
+    {
+      "es": "la infección",
+      "ru": "инфекция",
+      "category": "salud"
+    },
+    {
+      "es": "la inflamación",
+      "ru": "воспаление",
+      "category": "salud"
+    },
+    {
+      "es": "la herida",
+      "ru": "рана",
+      "category": "salud"
+    },
+    {
+      "es": "el esguince",
+      "ru": "растяжение связок",
+      "category": "salud"
+    },
+    {
+      "es": "la migraña",
+      "ru": "мигрень",
+      "category": "salud"
+    },
+    {
+      "es": "la tensión arterial",
+      "ru": "артериальное давление",
+      "category": "salud"
+    },
+    {
+      "es": "el pulso",
+      "ru": "пульс",
+      "category": "salud"
+    },
+    {
+      "es": "el diagnóstico",
+      "ru": "диагноз",
+      "category": "salud"
+    },
+    {
+      "es": "el tratamiento",
+      "ru": "лечение",
+      "category": "salud"
+    },
+    {
+      "es": "el medicamento",
+      "ru": "лекарство",
+      "category": "salud"
+    },
+    {
+      "es": "la medicación",
+      "ru": "медикаменты",
+      "category": "salud"
+    },
+    {
+      "es": "los efectos secundarios",
+      "ru": "побочные эффекты",
+      "category": "salud"
+    },
+    {
+      "es": "la recuperación",
+      "ru": "восстановление",
+      "category": "salud"
+    },
+    {
+      "es": "la prevención",
+      "ru": "профилактика",
+      "category": "salud"
+    },
+    {
+      "es": "las urgencias",
+      "ru": "неотложная помощь",
+      "category": "salud"
+    },
+    {
+      "es": "el análisis de sangre",
+      "ru": "анализ крови",
+      "category": "salud"
+    },
+    {
+      "es": "el estrés",
+      "ru": "стресс",
+      "category": "salud"
+    },
+    {
+      "es": "el tobillo",
+      "ru": "лодыжка",
+      "category": "cuerpo"
+    },
+    {
+      "es": "los hábitos saludables",
+      "ru": "полезные привычки",
+      "category": "salud"
+    }
+  ],
+  "categories": [
+    {
+      "id": "salud",
+      "label": "Здоровье"
+    },
+    {
+      "id": "cuerpo",
+      "label": "Тело"
+    },
+    {
+      "id": "comida",
+      "label": "Еда и напитки"
+    },
+    {
+      "id": "casa",
+      "label": "Дом"
+    },
+    {
+      "id": "gente",
+      "label": "Люди и семья"
+    },
+    {
+      "id": "ciudad",
+      "label": "Город и места"
+    },
+    {
+      "id": "naturaleza",
+      "label": "Природа"
+    },
+    {
+      "id": "tiempo",
+      "label": "Время и числа"
+    },
+    {
+      "id": "colores",
+      "label": "Цвета"
+    },
+    {
+      "id": "adjetivos",
+      "label": "Прилагательные"
+    },
+    {
+      "id": "palabras",
+      "label": "Служебные слова"
+    },
+    {
+      "id": "tecnologia",
+      "label": "Учёба и техника"
+    },
+    {
+      "id": "viaje",
+      "label": "Путешествия"
+    },
+    {
+      "id": "general",
+      "label": "Общее"
+    }
+  ]
+}

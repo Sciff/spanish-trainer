@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Слова — Spanish Trainer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <nav class="site-nav" aria-label="Страницы">
+      <a href="index.html">← К глаголам</a>
+    </nav>
+    <header class="header">
+      <h1>Слова</h1>
+      <p class="subtitle">Соотнеси испанское слово с переводом</p>
+      <div class="score" id="score">Верно: <strong>0</strong> / <span>0</span></div>
+      <p class="match-progress" id="progress"></p>
+    </header>
+
+    <nav class="category-nav" id="category-nav" aria-label="Категории"></nav>
+
+    <main id="main">
+      <p class="loading" id="loading">Загрузка…</p>
+    </main>
+  </div>
+  <script src="words-data.js"></script>
+  <script src="words.js"></script>
+</body>
+</html>

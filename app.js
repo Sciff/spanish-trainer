@@ -316,7 +316,14 @@
       }
 
       updateScore();
-      setTimeout(goNext, 1800);
+
+      const nextBtn = document.createElement("button");
+      nextBtn.type = "button";
+      nextBtn.className = "primary-btn next-btn";
+      nextBtn.textContent = "Далее";
+      nextBtn.addEventListener("click", goNext);
+      card.appendChild(nextBtn);
+      nextBtn.focus();
     });
 
     (sentence.parts || []).forEach((part) => {
